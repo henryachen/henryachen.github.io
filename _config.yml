@@ -4,7 +4,7 @@ email: henryachen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Simple is Smart
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "henryachen.github.io" # the base hostname & protocol for your site
 github_username:  henryachen
 
 # Dependencies
