@@ -9,12 +9,12 @@ relative_permalinks: true
 # Setup
 title:            Henry Chen
 tagline:          'Curiously Curious'
-description:      'Simple is Smart. <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'A humble introduction to Me'
 url:              henryachen.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Henry Chen'
   url:            https://twitter.com/mdo
 
 paginate:         1
