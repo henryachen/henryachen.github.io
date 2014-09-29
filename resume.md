@@ -4,135 +4,211 @@ title: Resume
 ---
 
 
-<div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+	<title>Jonathan Doe | Web Designer, Director | name@yourdomain.com</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" media="all" /> 
+	<link rel="stylesheet" type="text/css" href="resume.css" media="all" />
 
-## Inline HTML elements
+</head>
+<body>
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+<div id="doc2" class="yui-t7">
+	<div id="inner">
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+		<div id="hd">
+			<div class="yui-gc">
+				<div class="yui-u first">
 
-Most of these elements are styled by browsers with few modifications on our part.
+# Jonathan Doe
 
-## Heading
+## Web Designer, Director
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+				</div>
 
-### Code
+				<div class="yui-u">
+					<div class="contact-info">
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+### [Download PDF](#)
 
-{% highlight js %}
-// Example can be run directly in your JavaScript console
+### [name@yourdomain.com](mailto:name@yourdomain.com)
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+### (313) - 867-5309
 
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
+					</div><!--// .contact-info -->
+				</div>
+			</div><!--// .yui-gc -->
+		</div><!--// hd -->
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+		<div id="bd">
+			<div id="yui-main">
+				<div class="yui-b">
 
-### Gists via GitHub Pages
+					<div class="yui-gf">
+						<div class="yui-u first">
 
-Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
+## Profile
 
-{% gist 5555251 gist.md %}
+						</div>
+						<div class="yui-u">
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.
+								Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change. 
 
-### Lists
+						</div>
+					</div><!--// .yui-gf -->
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+					<div class="yui-gf">
+						<div class="yui-u first">
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+## Skills
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+						</div>
+						<div class="yui-u">
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+								<div class="talent">
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+## Web Design
 
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
+Assertively exploit wireless initiatives rather than synergistic core competencies.	
 
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
+								</div>
 
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
+								<div class="talent">
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+## Interface Design
 
-### Images
+Credibly streamline mission-critical value with multifunctional functionalities.	 
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+								</div>
 
-![placeholder](http://placehold.it/800x400 "Large example image")
-![placeholder](http://placehold.it/400x200 "Medium example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
+								<div class="talent">
 
-### Tables
+## Project Direction
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
+								</div>
+						</div>
+					</div><!--// .yui-gf -->
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+					<div class="yui-gf">
+						<div class="yui-u first">
 
------
+## Technical
 
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+						</div>
+						<div class="yui-u">
+
+*   XHTML
+*   CSS
+*   Javascript
+
+*   Jquery
+*   PHP
+*   CVS / Subversion
+
+*   OS X
+*   Windows XP/Vista
+*   Linux
+						</div>
+					</div><!--// .yui-gf-->
+
+					<div class="yui-gf">
+
+						<div class="yui-u first">
+
+## Experience
+
+						</div><!--// .yui-u -->
+
+						<div class="yui-u">
+
+							<div class="job">
+
+## Facebook
+
+### Senior Interface Designer
+
+#### 2005-2007
+
+Intrinsicly enable optimal core competencies through corporate relationships. Phosfluorescently implement worldwide vortals and client-focused imperatives. Conveniently initiate virtual paradigms and top-line convergence. 
+
+							</div>
+
+							<div class="job">
+
+## Apple Inc.
+
+### Senior Interface Designer
+
+#### 2005-2007
+
+Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment. Compellingly morph extensive niche markets with mission-critical ideas. Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits. 
+
+							</div>
+
+							<div class="job">
+
+## Microsoft
+
+### Principal and Creative Lead
+
+#### 2004-2005
+
+Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials. 
+
+							</div>
+
+							<div class="job last">
+
+## International Business Machines (IBM)
+
+### Lead Web Designer
+
+#### 2001-2004
+
+Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+
+							</div>
+
+						</div><!--// .yui-u -->
+					</div><!--// .yui-gf -->
+
+					<div class="yui-gf last">
+						<div class="yui-u first">
+
+## Education
+
+						</div>
+						<div class="yui-u">
+
+## Indiana University - Bloomington, Indiana
+
+### Dual Major, Economics and English &mdash; **4.0 GPA** 
+
+						</div>
+					</div><!--// .yui-gf -->
+
+				</div><!--// .yui-b -->
+			</div><!--// yui-main -->
+		</div><!--// bd -->
+
+		<div id="ft">
+
+Jonathan Doe &mdash; [name@yourdomain.com](mailto:name@yourdomain.com) &mdash; (313) - 867-5309
+
+		</div><!--// footer -->
+
+	</div><!-- // inner -->
+
+</div><!--// doc -->
+
+</body>
+</html>
