@@ -1,12 +1,3 @@
-# Site settings
-title: Hello World,
-email: henryachen@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Simple is Smart
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "henryachen.github.io" # the base hostname & protocol for your site
-github_username:  henryachen
-
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -14,3 +5,22 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
+
+# Setup
+title:            Henry Chen
+tagline:          'Hello World;'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content.
+url:              henryachen.github.io
+baseurl:          /
+
+author:
+  name:           'Henry Chen'
+
+
+paginate:         1
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/henryachen/henryachen.github.io
