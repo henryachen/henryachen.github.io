@@ -5,22 +5,45 @@
     <description>a humble introduction &lt;br&gt;</description>
     <link>henryachen.github.io//</link>
     <atom:link href="henryachen.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Sep 2014 23:00:41 -0700</pubDate>
-    <lastBuildDate>Mon, 29 Sep 2014 23:00:41 -0700</lastBuildDate>
+    <pubDate>Tue, 30 Sep 2014 01:45:34 -0700</pubDate>
+    <lastBuildDate>Tue, 30 Sep 2014 01:45:34 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Hello World</title>
+        <title>Hello World!</title>
         <description>&lt;p&gt;This &lt;em&gt;site&lt;/em&gt; serves as an &lt;em&gt;creative&lt;/em&gt; and informal &lt;em&gt;introduction&lt;/em&gt; to who &lt;strong&gt;I&lt;/strong&gt; am.&lt;/p&gt;
 
 &lt;p&gt;Welcome and Enjoy!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Henry Chen&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>henryachen.github.io//2014/09/01/whats-jekyll/</link>
-        <guid isPermaLink="true">henryachen.github.io//2014/09/01/whats-jekyll/</guid>
+        <pubDate>Mon, 29 Sep 2014 04:57:46 -0700</pubDate>
+        <link>henryachen.github.io//jekyll/update/2014/09/29/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">henryachen.github.io//jekyll/update/2014/09/29/welcome-to-jekyll/</guid>
         
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;This &lt;em&gt;site&lt;/em&gt; serves as an &lt;em&gt;creative&lt;/em&gt; and informal &lt;em&gt;introduction&lt;/em&gt; to who &lt;strong&gt;I&lt;/strong&gt; am.&lt;/p&gt;
+
+&lt;p&gt;Welcome and Enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Henry Chen&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Sep 2014 04:57:46 -0700</pubDate>
+        <link>henryachen.github.io//jekyll/update/2014/09/29/Hello/</link>
+        <guid isPermaLink="true">henryachen.github.io//jekyll/update/2014/09/29/Hello/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     

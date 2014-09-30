@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Hello World!"
+date:   2014-09-29 11:57:46
+categories: jekyll update
+---
+This <em>site</em> serves as an <em>creative</em> and informal <em>introduction</em> to who <strong>I</strong> am.
+
+Welcome and Enjoy!
+
+<strong>Henry Chen</strong>

@@ -4,7 +4,7 @@
  <title>Henry Chen</title>
  <link href="henryachen.github.io/atom.xml" rel="self"/>
  <link href="henryachen.github.io/"/>
- <updated>2014-09-29T23:00:41-07:00</updated>
+ <updated>2014-09-30T01:45:34-07:00</updated>
  <id>henryachen.github.io</id>
  <author>
    <name>Henry Chen</name>
@@ -13,10 +13,23 @@
 
  
  <entry>
-   <title>Hello World</title>
-   <link href="henryachen.github.io/2014/09/01/whats-jekyll/"/>
-   <updated>2014-09-01T00:00:00-07:00</updated>
-   <id>henryachen.github.io/2014/09/01/whats-jekyll</id>
+   <title>Hello World!</title>
+   <link href="henryachen.github.io/jekyll/update/2014/09/29/welcome-to-jekyll/"/>
+   <updated>2014-09-29T04:57:46-07:00</updated>
+   <id>henryachen.github.io/jekyll/update/2014/09/29/welcome-to-jekyll</id>
+   <content type="html">&lt;p&gt;This &lt;em&gt;site&lt;/em&gt; serves as an &lt;em&gt;creative&lt;/em&gt; and informal &lt;em&gt;introduction&lt;/em&gt; to who &lt;strong&gt;I&lt;/strong&gt; am.&lt;/p&gt;
+
+&lt;p&gt;Welcome and Enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Henry Chen&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Welcome to Jekyll!</title>
+   <link href="henryachen.github.io/jekyll/update/2014/09/29/Hello/"/>
+   <updated>2014-09-29T04:57:46-07:00</updated>
+   <id>henryachen.github.io/jekyll/update/2014/09/29/Hello</id>
    <content type="html">&lt;p&gt;This &lt;em&gt;site&lt;/em&gt; serves as an &lt;em&gt;creative&lt;/em&gt; and informal &lt;em&gt;introduction&lt;/em&gt; to who &lt;strong&gt;I&lt;/strong&gt; am.&lt;/p&gt;
 
 &lt;p&gt;Welcome and Enjoy!&lt;/p&gt;
