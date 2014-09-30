@@ -7,4 +7,4 @@ This <em>site</em> serves as an <em>creative</em> and informal <em>introduction<
 
 Welcome and Enjoy!
 
-<strong><em>Henry Chen</em></strong>
+<strong>Henry Chen</strong>
