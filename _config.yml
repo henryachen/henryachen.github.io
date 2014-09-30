@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Henry Chen
 tagline:          'Curiously Curious'
-description:      'a humble introduction to'
+description:      'a humble introduction'
 url:              henryachen.github.io
 baseurl:          /
 
