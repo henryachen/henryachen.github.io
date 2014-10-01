@@ -9,14 +9,13 @@ relative_permalinks: true
 # Setup
 title:            Henry Chen
 tagline:          'Curiously Curious'
-description:      'a humble introduction
-					<br>'
+description:      'a humble introduction'
 url:              henryachen.github.io
 baseurl:          /
 
 author:
   name:           'Henry Chen'
-  url:            https://twitter.com/mdo
+
 
 paginate:         1
 
