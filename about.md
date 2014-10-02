@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi! My name is Henry Chen. I am currently an undergraduate at University of California, Berkeley studying Chemistry with a materials science and engineering focus. 
+Hi! My name is Henry Chen. I am currently an undergraduate at University of California, Berkeley studying Chemistry. 
 
 I am a highly analytical, result-driven individual, and produce my best work in intellectually stimulating, fast-paced environments. My work in the physical sciences has helped me develop a unique problem solving approach, one that I hope to use to efficiently solve complex problems without sacrificing quality.
 
