@@ -19,10 +19,4 @@ author:
 
 paginate:         1
 
-#analytics
-analytics :
-	provider : google
-	google :
-		tracking_id : 'UA-55955802-1'
-
 
