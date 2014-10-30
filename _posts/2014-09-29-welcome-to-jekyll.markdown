@@ -9,6 +9,7 @@ This <em>site</em> serves as a <em>creative</em> and informal <em>introduction</
 Welcome and Enjoy!
 
 <strong>Henry Chen</strong>
+
 <div id = "test"></div>
 
 <style>
@@ -117,3 +118,5 @@ data.shift();
 }
 
 })()</script>
+
+<p>Visualization of your scroll and click activity</p>
