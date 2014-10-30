@@ -9,7 +9,7 @@ This <em>site</em> serves as a <em>creative</em> and informal <em>introduction</
 Welcome and Enjoy!
 
 <strong>Henry Chen</strong>
-<div id = "test" style = "width: 30;"></div>
+<div id = "test"></div>
 
 <style>
 .x.axis line {
@@ -35,7 +35,7 @@ now = new Date(Date.now() - duration),
 count = 0,
 data = d3.range(n).map(function() { return 0; });
 
-var margin = {top: 50, right: 100, bottom: 50, left: 80},
+var margin = {top: 50, right: 100, bottom: 50, left: 70},
 width = 960 - margin.right,
 height = 120 - margin.top - margin.bottom;
 
