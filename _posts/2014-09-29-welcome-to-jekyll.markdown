@@ -32,6 +32,7 @@ stroke-width: 1.5px;
 </header>
 
 
+
 <script>(function() {
 
 var n = 243,
@@ -56,7 +57,7 @@ var line = d3.svg.line()
 .x(function(d, i) { return x(now - (n - 1 - i) * duration); })
 .y(function(d, i) { return y(d); });
 
-var svg = d3.select("content").append("p").append("svg")
+var svg = d3.select("div#test").append("p").append("svg")
 .attr("width", width + margin.left + margin.right)
 .attr("height", height + margin.top + margin.bottom)
 .style("margin-left", -margin.left + "px")
