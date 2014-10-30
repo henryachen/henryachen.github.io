@@ -39,8 +39,8 @@ now = new Date(Date.now() - duration),
 count = 0,
 data = d3.range(n).map(function() { return 0; });
 
-var margin = {top: 6, right: 0, bottom: 20, left: 40},
-width = 360 - margin.right,
+var margin = {top: 20, right: 10, bottom: 20, left: 10},
+width = 960 - margin.right,
 height = 120 - margin.top - margin.bottom;
 
 var x = d3.time.scale()
@@ -58,9 +58,9 @@ var line = d3.svg.line()
 var svg = d3.select("body").append("p").append("svg")
 .attr("width", width + margin.left + margin.right)
 .attr("height", height + margin.top + margin.bottom)
-.style("margin-right", -margin.right + "px")
+.style("margin-left", -margin.left + "px")
 .append("g")
-.attr("transform", "translate(" + margin.right + "," + margin.top + ")");
+.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 svg.append("defs").append("clipPath")
 .attr("id", "clip")
@@ -119,5 +119,3 @@ data.shift();
 }
 
 })()</script>
-
-<div id="example"></div>
