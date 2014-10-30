@@ -54,7 +54,7 @@ var line = d3.svg.line()
 var svg = d3.select("body").append("p").append("svg")
 .attr("width", 720)
 .attr("height", height + margin.top + margin.bottom)
-.style("margin-left", -margin.left + "px")
+.style("margin-left", 10)
 .append("g")
 .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
