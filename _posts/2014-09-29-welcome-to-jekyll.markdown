@@ -13,7 +13,6 @@ Welcome and Enjoy!
 <div id="test"></div>
 
 
-
 <p><link href='/css/seriesStyle.css' rel='stylesheet'></p>
 
 <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
