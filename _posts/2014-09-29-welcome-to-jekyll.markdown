@@ -35,7 +35,7 @@ now = new Date(Date.now() - duration),
 count = 0,
 data = d3.range(n).map(function() { return 0; });
 
-var margin = {top: 6, right: 0, bottom: 6, left: 40},
+var margin = {top: 50, right: 10, bottom: 20, left: 10},
 width = 960 - margin.right,
 height = 120 - margin.top - margin.bottom;
 
