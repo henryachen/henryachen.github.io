@@ -10,7 +10,7 @@ Welcome and Enjoy!
 
 <strong>Henry Chen</strong>
 
-
+<div id="test"></div>
 <style>
 
 
@@ -32,7 +32,7 @@ stroke-width: 1.5px;
 <header>
 </header>
 
-<div id="test"></div>
+
 
 <script>(function() {
 
