@@ -11,28 +11,12 @@ Welcome and Enjoy!
 <strong>Henry Chen</strong>
 
 <div id="test"></div>
-<style>
 
 
 
-.x.axis line {
-shape-rendering: auto;
-}
+<p><link href='/css/seriesStyle.css' rel='stylesheet'></p>
 
-.line {
-fill: none;
-stroke: #000;
-stroke-width: 1.5px;
-}
-
-</style>
-<script src="http://d3js.org/d3.v3.min.js"></script>
-
-
-<header>
-</header>
-
-
+<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
 
 <script>(function() {
 
