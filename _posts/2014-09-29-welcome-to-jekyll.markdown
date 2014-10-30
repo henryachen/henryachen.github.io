@@ -52,7 +52,7 @@ var line = d3.svg.line()
 .y(function(d, i) { return y(d); });
 
 var svg = d3.select("div#test").append("svg")
-.attr("width", width + margin.left + margin.right)
+.attr("width", 720)
 .attr("height", height + margin.top + margin.bottom)
 .style("margin-left", -margin.left + "px")
 .append("g")
