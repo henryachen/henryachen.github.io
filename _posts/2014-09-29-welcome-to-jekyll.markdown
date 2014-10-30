@@ -119,4 +119,3 @@ data.shift();
 
 })()</script>
 
-<p>Visualization of your scroll and click activity</p>
