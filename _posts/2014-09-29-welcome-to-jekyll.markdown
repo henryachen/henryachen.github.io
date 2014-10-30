@@ -50,7 +50,7 @@ var line = d3.svg.line()
 .x(function(d, i) { return x(i); })
 .y(function(d, i) { return y(d); });
 
-var svg = d3.select("div#example").append("p").append("svg")
+var svg = d3.select("body").append("p").append("svg")
 .attr("width", width + margin.left + margin.right)
 .attr("height", height + margin.top + margin.bottom)
 .style("margin-left", -margin.left + "px")
@@ -107,7 +107,7 @@ var line = d3.svg.line()
 .x(function(d, i) { return x(now - (n - 1 - i) * duration); })
 .y(function(d, i) { return y(d); });
 
-var svg = d3.select("div#example").append("p").append("svg")
+var svg = d3.select("body").append("p").append("svg")
 .attr("width", width + margin.left + margin.right)
 .attr("height", height + margin.top + margin.bottom)
 .style("margin-left", -margin.left + "px")
@@ -171,5 +171,3 @@ data.shift();
 }
 
 })()</script>
-
-<div id="example"></div>
