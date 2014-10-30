@@ -51,7 +51,7 @@ var line = d3.svg.line()
 .x(function(d, i) { return x(now - (n - 1 - i) * duration); })
 .y(function(d, i) { return y(d); });
 
-var svg = d3.select("div#test").append("svg")
+var svg = d3.select("body").append("p").append("svg")
 .attr("width", 720)
 .attr("height", height + margin.top + margin.bottom)
 .style("margin-left", -margin.left + "px")
@@ -78,7 +78,9 @@ var path = svg.append("g")
 tick();
 
 d3.select(window)
-.on("click", function() { ++count; });
+.on("mousedown", function() { ++count; })
+.on("mouseup", function() { ++count; })
+.on("scroll", function() { ++count; });
 
 function tick() {
 
