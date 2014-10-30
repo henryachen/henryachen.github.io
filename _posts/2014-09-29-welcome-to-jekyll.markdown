@@ -9,7 +9,7 @@ This <em>site</em> serves as a <em>creative</em> and informal <em>introduction</
 Welcome and Enjoy!
 
 <strong>Henry Chen</strong>
-<div id = "test"></div>
+<div id = "test" style = "width: 100%;"></div>
 
 <style>
 .x.axis line {
