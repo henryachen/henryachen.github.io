@@ -40,7 +40,7 @@ count = 0,
 data = d3.range(n).map(function() { return 0; });
 
 var margin = {top: 6, right: 0, bottom: 20, left: 40},
-width = 960 - margin.right,
+width = 720 - margin.right,
 height = 120 - margin.top - margin.bottom;
 
 var x = d3.time.scale()
