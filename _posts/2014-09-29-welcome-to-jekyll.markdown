@@ -87,7 +87,7 @@ function tick() {
 
 // update the domains
 now = new Date();
-x.domain([now - (n - 2) * duration, now - duration]);
+x.domain([now - (n - 2) * duration, now - duration/2]);
 y.domain([0, d3.max(data)]);
 
 // push the accumulated count onto the back, and reset the count
