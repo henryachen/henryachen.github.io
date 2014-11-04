@@ -41,7 +41,7 @@ width = 960 - margin.right,
 height = 120 - margin.top - margin.bottom;
 
 var x = d3.time.scale()
-.domain([now - (n - 2) * duration, now - duration])
+.domain([now - (n - 2) * duration, now - duration/2])
 .range([0, width]);
 
 var y = d3.scale.linear()
