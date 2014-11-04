@@ -32,7 +32,7 @@ stroke-width: 1.5px;
 
 var n = 243,
 duration = 750,
-now = new Date(Date.now() - duration),
+now = new Date(Date.now()),
 count = 0,
 data = d3.range(n).map(function() { return 0; });
 
