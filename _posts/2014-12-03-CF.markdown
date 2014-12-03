@@ -5,7 +5,7 @@ date:   2014-12-03 02:53:46
 
 ---
 
-The accuracy of the item and music recommendations of [Amazon.com](amazon.com) and [Pandora](pandora.com) respectively, has always astounded me. Each system is unique -- tailored and optimized with different considerations in mind. In order tounderstand how these [recommendation systems](http://en.wikipedia.org/wiki/Recommender_system) work, I decided build one from static data.
+The accuracy of item and music recommendations of [Amazon.com](amazon.com) and [Pandora](pandora.com) respectively, has always astounded me. Each system is unique -- tailored and optimized with different considerations in mind. In order to understand how these [recommendation systems](http://en.wikipedia.org/wiki/Recommender_system) work, I decided build my own.
 
 
 Using the dataset provided by the [Yelp Dataset Challenge](http://www.yelp.com/dataset_challenge/), I built a basic Recommendation System using [collaborative filtering](http://en.wikipedia.org/wiki/Collaborative_filtering).
