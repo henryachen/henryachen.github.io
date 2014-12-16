@@ -5,7 +5,7 @@ date:   2014-12-03 02:53:46
 
 ---
 
-The accurate item and music recommendations of <a href="amazon.com" target="_blank">Amazon.com</a> and <a href="pandora.com" target="_blank">Pandora.com</a> respectively, have always astounded me. Each system is unique -- tailored and optimized with different considerations in mind. In order to understand how these <a href="http://en.wikipedia.org/wiki/Recommender_system" target="_blank">recommendation systems</a> work, I decided build my own.
+The accurate item and music recommendations of <a href="http://amazon.com" target="_blank">Amazon.com</a> and <a href="http://pandora.com" target="_blank">Pandora.com</a> respectively, have always astounded me. Each system is unique -- tailored and optimized with different considerations in mind. In order to understand how these <a href="http://en.wikipedia.org/wiki/Recommender_system" target="_blank">recommendation systems</a> work, I decided build my own.
 
 
 Using the dataset provided by the <a href="http://www.yelp.com/dataset_challenge/" target="_blank">Yelp Dataset Challenge</a>, I built a basic Recommendation System using <a href="http://en.wikipedia.org/wiki/Collaborative_filtering" target="_blank">collaborative filtering</a>
