@@ -5,8 +5,8 @@ date:   2014-11-02 02:47:46
 
 ---
 
-Recently, I discovered [D3](http://d3js.org/) a powerful Javascript library for creating beautiful and responsive data visualizations. 
+Recently, I discovered <a href="http://d3js.org/" target="_blank">D3</a> a powerful Javascript library for creating beautiful and responsive data visualizations. 
 
-It works seamlessly with existing web technologies can interact with all parts of the [DOM](http://www.w3.org/DOM/) (document object model), and is as flexible as the client side web technology stack.
+It works seamlessly with existing web technologies can interact with all parts of the <a href="http://www.w3.org/DOM/" target="_blank">DOM</a> (document object model), and is as flexible as the client side web technology stack.
 
-As a simple example, the chart at the bottom of the page uses spline interpolation with D3's built in [axes](https://github.com/mbostock/d3/wiki/SVG-Axes) and [time scales](https://github.com/mbostock/d3/wiki/Time-Scales) to visualize your scrolling and clicking activity during your time on this page.
+As a simple example, the chart at the bottom of the page uses spline interpolation with D3's built in <a href="https://github.com/mbostock/d3/wiki/SVG-Axes" target="_blank">axes</a> and <a href="https://github.com/mbostock/d3/wiki/Time-Scales" target="_blank">time scales</a> to visualize your scrolling and clicking activity during your time on this page.
