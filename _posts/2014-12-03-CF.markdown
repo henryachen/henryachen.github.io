@@ -12,4 +12,4 @@ Using the dataset provided by the [Yelp Dataset Challenge](http://www.yelp.com/d
 
 This recommendation system is an ongoing project that will push me to dive deeper and build more sophisticated recommenders while sharpening my [python](https://www.python.org/) skills.
 
-Please feel free to take a look at the recommendation system I have built so far here: [Recommendation System](http://nbviewer.ipython.org/gist/henryachen/9d61ad38e10c4e43f1fb).
+Please feel free to take a look at the recommendation system I have built so far here: <a href="http://nbviewer.ipython.org/gist/henryachen/9d61ad38e10c4e43f1fb" target="_blank">Recommendation System</a>
