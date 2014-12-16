@@ -30,7 +30,7 @@ stroke-width: 1.5px;
 
 <script>(function() {
 
-var n = 243,
+var n = 120,
 duration = 750,
 now = new Date(Date.now()),
 count = 0,
