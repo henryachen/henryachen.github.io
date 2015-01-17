@@ -7,4 +7,4 @@ date:   2015-01-15 03:16:46
 
 The <a href="http://d3js.org/" target="_blank">D3</a> JavaScript library is an awesome tool to create responsive and interative visualizations. In order to sharpen my own D3 skills and to practice incorporating Makefiles into my workflow, I decided to visualize the <a href="http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_13_5YR_B19313&prodType=table" target="_blank">aggregate income of the counties</a> in the US using a <a href="http://indiemapper.com/app/learnmore.php?l=proportional_symbols" target="_blank">graduated symbol map</a> (bubble map). Mouse over the bubbles for more information about each bubble.
 
-<iframe src="http://henryachen.me/IncomeMap/" width="965" height="600" frameBorder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="http://henryachen.me/IncomeMap/" width="800" height="400" frameBorder="0" marginwidth="0" marginheight="0" scrolling="no" align="top"></iframe>

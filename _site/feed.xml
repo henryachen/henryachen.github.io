@@ -5,15 +5,15 @@
     <description>a humble introduction</description>
     <link>henryachen.github.io//</link>
     <atom:link href="henryachen.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 15 Jan 2015 16:58:10 -0800</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2015 16:58:10 -0800</lastBuildDate>
+    <pubDate>Sat, 17 Jan 2015 00:00:30 -0800</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2015 00:00:30 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>D3 Mapping</title>
         <description>&lt;p&gt;The &lt;a href=&quot;http://d3js.org/&quot; target=&quot;_blank&quot;&gt;D3&lt;/a&gt; JavaScript library is an awesome tool to create responsive and interative visualizations. In order to sharpen my own D3 skills and to practice incorporating Makefiles into my workflow, I decided to visualize the &lt;a href=&quot;http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_13_5YR_B19313&amp;prodType=table&quot; target=&quot;_blank&quot;&gt;aggregate income of the counties&lt;/a&gt; in the US using a &lt;a href=&quot;http://indiemapper.com/app/learnmore.php?l=proportional_symbols&quot; target=&quot;_blank&quot;&gt;graduated symbol map&lt;/a&gt; (bubble map). Mouse over the bubbles for more information about each bubble.&lt;/p&gt;
 
-&lt;iframe src=&quot;http://henryachen.me/IncomeMap/&quot; width=&quot;965&quot; height=&quot;600&quot; frameBorder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://henryachen.me/IncomeMap/&quot; width=&quot;800&quot; height=&quot;400&quot; frameBorder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; align=&quot;top&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Wed, 14 Jan 2015 19:16:46 -0800</pubDate>
         <link>henryachen.github.io//2015/01/14/D3Map/</link>
