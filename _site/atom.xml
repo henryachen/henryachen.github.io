@@ -4,7 +4,7 @@
  <title>Henry Chen</title>
  <link href="henryachen.github.io/atom.xml" rel="self"/>
  <link href="henryachen.github.io/"/>
- <updated>2015-01-17T00:01:35-08:00</updated>
+ <updated>2015-02-02T16:33:09-08:00</updated>
  <id>henryachen.github.io</id>
  <author>
    <name>Henry Chen</name>
@@ -34,7 +34,7 @@
 
 &lt;p&gt;This recommendation system is an ongoing project that will push me to dive deeper and build more sophisticated recommenders while sharpening my &lt;a href=&quot;https://www.python.org/&quot; target=&quot;_blank&quot;&gt;python&lt;/a&gt; skills.&lt;/p&gt;
 
-&lt;p&gt;Please feel free to take a look at the recommendation system I have built so far here: &lt;a href=&quot;http://nbviewer.ipython.org/gist/henryachen/9d61ad38e10c4e43f1fb&quot; target=&quot;_blank&quot;&gt;Recommendation System&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please feel free to take a look at the recommendation system I have built so far here: &lt;a href=&quot;http://nbviewer.ipython.org/gist/henryachen/9cf250c462e7aa4c0466&quot; target=&quot;_blank&quot;&gt;Recommendation System&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  

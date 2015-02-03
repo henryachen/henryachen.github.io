@@ -5,8 +5,8 @@
     <description>a humble introduction</description>
     <link>henryachen.github.io//</link>
     <atom:link href="henryachen.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 17 Jan 2015 00:01:35 -0800</pubDate>
-    <lastBuildDate>Sat, 17 Jan 2015 00:01:35 -0800</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2015 16:33:09 -0800</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2015 16:33:09 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -30,7 +30,7 @@
 
 &lt;p&gt;This recommendation system is an ongoing project that will push me to dive deeper and build more sophisticated recommenders while sharpening my &lt;a href=&quot;https://www.python.org/&quot; target=&quot;_blank&quot;&gt;python&lt;/a&gt; skills.&lt;/p&gt;
 
-&lt;p&gt;Please feel free to take a look at the recommendation system I have built so far here: &lt;a href=&quot;http://nbviewer.ipython.org/gist/henryachen/9d61ad38e10c4e43f1fb&quot; target=&quot;_blank&quot;&gt;Recommendation System&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please feel free to take a look at the recommendation system I have built so far here: &lt;a href=&quot;http://nbviewer.ipython.org/gist/henryachen/9cf250c462e7aa4c0466&quot; target=&quot;_blank&quot;&gt;Recommendation System&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Dec 2014 18:53:46 -0800</pubDate>
         <link>henryachen.github.io//2014/12/02/CF/</link>
